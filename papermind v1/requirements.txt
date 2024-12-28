@@ -1,0 +1,11 @@
+gradio
+torch
+transformers
+PyPDF2
+accelerate
+bitsandbytes
+nltk
+scikit-learn
+numpy
+matplotlib
+seaborn
