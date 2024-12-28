@@ -47,8 +47,8 @@ Upload a research paper in PDF format to receive summarized insights for each se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/research-paper-summarizer.git
-cd research-paper-summarizer
+git clone https://github.com/AkarshanGupta/papermind.git
+cd papermind v1
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
