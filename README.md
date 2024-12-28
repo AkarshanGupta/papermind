@@ -34,8 +34,8 @@ The project utilizes the following technologies:
 
 ## Demo
 
-Upload a research paper in PDF format to receive summarized insights for each section.
-Link for the (site)[https://huggingface.co/spaces/akarshan11/PaperMind]
+- Upload a research paper in PDF format to receive summarized insights for each section.
+- Link for the [site](https://huggingface.co/spaces/akarshan11/PaperMind)
 
 ## Requirements
 
