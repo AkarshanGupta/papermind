@@ -115,3 +115,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Hugging Face](https://huggingface.co/) for the Flan-T5 model.
 - [Gradio](https://gradio.app/) for the easy-to-use interface.
 - [NLTK](https://www.nltk.org/) for text tokenization.
+
+## Update 
+I am going to upgrade this project by adding new features.so i am going to keep the versions of this project the folder name will give idea about it 
